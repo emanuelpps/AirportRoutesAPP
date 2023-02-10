@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AirportRoutesAPP/static/css/main.ccd093e6.css",
+    "main.js": "/AirportRoutesAPP/static/js/main.a0c26adc.js",
+    "index.html": "/AirportRoutesAPP/index.html",
+    "main.ccd093e6.css.map": "/AirportRoutesAPP/static/css/main.ccd093e6.css.map",
+    "main.a0c26adc.js.map": "/AirportRoutesAPP/static/js/main.a0c26adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd093e6.css",
+    "static/js/main.a0c26adc.js"
+  ]
+}
